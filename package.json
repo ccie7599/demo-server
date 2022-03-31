@@ -16,7 +16,6 @@
     "do-red": "~0.2.1",
     "feezal": "~0.6.2",
     "neutrinos-sentiment-engine": "~1.0.0",
-    "node-red-apple-find-me": "~1.0.5",
     "node-red-contrib-aggregator": "~1.5.0",
     "node-red-contrib-array-grouper": "0.0.6",
     "node-red-contrib-average": "~0.1.7",
